@@ -4,24 +4,24 @@ Tên dự án: "Game 2D pixel GreenNightmare"
 
 ## Level 1
 <p align="center">
-  <img src="images/Level1Pic1.jpg" width="800"/>
+  <img src="Images/Level1Pic1.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="images/Level1Pic2.jpg" width="800"/>
+  <img src="Images/Level1Pic2.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="images/Level1Pic3.jpg" width="800"/>
+  <img src="Images/Level1Pic3.jpg" width="800"/>
 </p>
 
 ## Level 2
 <p align="center">
-  <img src="images/Level2Pic1.jpg" width="800"/>
+  <img src="Images/Level2Pic1.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="images/Level2Pic2.jpg" width="800"/>
+  <img src="Images/Level2Pic2.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="images/Level2Pic3.jpg" width="800"/>
+  <img src="Images/Level2Pic3.jpg" width="800"/>
 </p>
 
 
